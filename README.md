@@ -50,9 +50,9 @@
 1. Well opening and closing tags.
 
 # Challenges :
-1.Change slider as per user.
-1.Javascript: Change carsoul/slider.
-1.CSS+PHP: Active menu.
-1.CSS: Resposive header and slider.
-1.PHP+Mysql : Protect password with MD5
-1.PHP,Mysql add Category.
+1. Change slider as per user.
+1. Javascript: Change carsoul/slider.
+1. CSS+PHP: Active menu.
+1. CSS: Resposive header and slider.
+1. PHP+Mysql : Protect password with MD5
+1. PHP,Mysql add Category.
