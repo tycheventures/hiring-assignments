@@ -14,6 +14,8 @@
 1. In navbar must have logo , Home and Login system.
 1. In Home Page create image slider using javascript library. [link for slider library](https://swiperjs.com/demos/).
 
+<img src="./images/index page.png">
+
 
 # Create Login and signup form
 
@@ -21,12 +23,16 @@
 1. All signup details inserted into database and it must be unique.(No duplicate username).
 1. Using Signup details login into loginform.
 
+<img src="./images/login.png">
+
 
 # Create Home page
 
 1. After login successfully redirect to home page.
 1. After login in home page header we have one myacoount page and users activity using session with user logout system.
 1.In homepage image slider have users name.
+
+<img src="./images/Homegroup.png">
 
 
 # Create Myaccount page
@@ -36,6 +42,7 @@
 1. All myaccount data must be inserted into database.
 1. Inserted data display on same page and also edit and delete system.
 
+<img src="./images/myaccount.png">
 
 # Bonus? 
 1. Git init & commits.
