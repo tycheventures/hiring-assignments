@@ -60,10 +60,3 @@ Note: This test is only for people who are qualified for first round.
 1. Well structured & formatted code with coding styling standards.
 1. Valid code.
  
-# Challenges :
-1. Change slider as per user.
-1. JavaScript: Change carsoul/slider.
-1. CSS+PHP: Active menu.
-1. CSS: Resposive header and slider.
-1. PHP+MySQL : Protect password with MD5.
-1. PHP+MySQL add Category.
