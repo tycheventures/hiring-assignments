@@ -8,7 +8,8 @@ Note: This test is only for people who are qualified for first round.
 1. Select any one text editior Notepad++ or sublime text editor on desktop.
 1. Use any browser Chrome or Mozila firefox.
 1. Which your skills we want to check : HTML, CSS, JavaScript, Bootstrap ,PHP, MySQL.
-1. JavaScript Library : Link for [JavaScript Slider](https://unpkg.com/swiper/).
+1. JavaScript Library : Link for [JavaScript Slider](https://swiperjs.com/).
+1. JavaScript Library : Link for [JavaScript Package](https://unpkg.com/swiper/).
 1. Bootstrap Library : Link for [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/).
                   
                       
@@ -55,8 +56,16 @@ Note: This test is only for people who are qualified for first round.
 1. Show uploaded images from upload form in slider. As soon as user upload image, it should reflect on homepage.
 1. Title entered from upload form will appear on image in slider
 
-# Bonus? 
+# Bonus.
 1. Git init & commits.
 1. Well structured & formatted code with coding styling standards.
 1. Valid code.
+
+# Challenges
+
+1. PHP+MySQL : Add Category.
+1. PHP+MySQL : Change slider As per User.
+1. CSS+PHP : Active Menu.
+1. CSS: Resposive Header.
+1. Secure Website: Protect Password with MD5.
  
